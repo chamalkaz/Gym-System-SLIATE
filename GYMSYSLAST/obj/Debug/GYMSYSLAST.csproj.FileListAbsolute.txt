@@ -1,0 +1,50 @@
+C:\Users\CHAMA\source\repos\GYMSYSLAST\GYMSYSLAST\bin\Debug\GYMSYSLAST.exe.config
+C:\Users\CHAMA\source\repos\GYMSYSLAST\GYMSYSLAST\bin\Debug\GYMSYSLAST.exe
+C:\Users\CHAMA\source\repos\GYMSYSLAST\GYMSYSLAST\bin\Debug\GYMSYSLAST.pdb
+C:\Users\CHAMA\source\repos\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.csproj.AssemblyReference.cache
+C:\Users\CHAMA\source\repos\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.Form1.resources
+C:\Users\CHAMA\source\repos\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.Properties.Resources.resources
+C:\Users\CHAMA\source\repos\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.csproj.GenerateResource.cache
+C:\Users\CHAMA\source\repos\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.csproj.CoreCompileInputs.cache
+C:\Users\CHAMA\source\repos\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.exe
+C:\Users\CHAMA\source\repos\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.pdb
+C:\Users\CHAMA\source\repos\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.menu.resources
+C:\Users\CHAMA\source\repos\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.newMember.resources
+C:\Users\CHAMA\source\repos\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.newStaff.resources
+C:\Users\CHAMA\source\repos\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.equip.resources
+C:\Users\CHAMA\source\repos\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.bmi.resources
+C:\Users\CHAMA\source\repos\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.searchMem.resources
+E:\GYMSYSLAST\GYMSYSLAST\bin\Debug\GYMSYSLAST.exe.config
+E:\GYMSYSLAST\GYMSYSLAST\bin\Debug\GYMSYSLAST.exe
+E:\GYMSYSLAST\GYMSYSLAST\bin\Debug\GYMSYSLAST.pdb
+E:\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.csproj.AssemblyReference.cache
+E:\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.bmi.resources
+E:\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.equip.resources
+E:\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.Form1.resources
+E:\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.menu.resources
+E:\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.newMember.resources
+E:\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.newStaff.resources
+E:\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.Properties.Resources.resources
+E:\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.searchMem.resources
+E:\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.csproj.GenerateResource.cache
+E:\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.csproj.CoreCompileInputs.cache
+E:\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.exe
+E:\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.pdb
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\bin\Debug\GYMSYSLAST.exe.config
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\bin\Debug\GYMSYSLAST.exe
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\bin\Debug\GYMSYSLAST.pdb
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.csproj.AssemblyReference.cache
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.bmi.resources
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.equip.resources
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.Form1.resources
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.menu.resources
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.newMember.resources
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.newStaff.resources
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.Properties.Resources.resources
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.searchMem.resources
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.csproj.GenerateResource.cache
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.csproj.CoreCompileInputs.cache
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.exe
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.pdb
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.viewEquip.resources
+C:\Users\IMESHI\Documents\Visual Studio 2022\GYMSYSLAST\GYMSYSLAST\obj\Debug\GYMSYSLAST.viewStaff.resources
